@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TRB3</string>
+    <string name="title_activity_cadastrar_tarefa">CadastrarTarefa</string>
+    <string name="cadastrar_tarefa">Cadastrar Tarefa</string>
+    <string name="descri_o">Descrição</string>
+    <string name="dificuldade">Dificuldade:</string>
+    <string name="t_tulo">Título</string>
+    <string name="salvar">Salvar</string>
+    <string name="estado">Estado:</string>
+    <string name="tags">Tags</string>
+    <string name="tarefas">Tarefas</string>
+    <string name="atribuir_tags">Atribuir Tags</string>
+    <string name="cadastrar_tag">Cadastrar Tag</string>
+    <string name="atribuir">Atribuir</string>
+    <string name="tag">Tag</string>
+    <string name="tarefas_associadas">Tarefas Associadas</string>
+</resources>
