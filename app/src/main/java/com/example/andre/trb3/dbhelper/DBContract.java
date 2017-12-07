@@ -26,7 +26,7 @@ final class DBContract {
                 Tarefa.TABLE_NAME;
 
         static final String SQL_SELECT_TAREFAS = "SELECT * FROM "+
-                Tarefa.TABLE_NAME;
+                Tarefa.TABLE_NAME+" ORDER BY "+Tarefa.COLUMN_ESTADO;
     }
 
     static class Tag implements BaseColumns {

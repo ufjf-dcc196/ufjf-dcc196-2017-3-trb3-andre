@@ -54,6 +54,7 @@ public class Tarefa implements Serializable {
 
     @Override
     public String toString() {
-        return getTitulo();
+        return getTitulo()+" [" +
+                getEstado()+"]";
     }
 }
